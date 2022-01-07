@@ -1,0 +1,114 @@
+html {
+    height:100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+
+header {
+
+    height:118px;
+    font-family: 'Poppins', sans-serif;
+    
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+nav {
+    background-color: gray;
+    font-family: 'Poppins', sans-serif;
+
+    
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    
+
+}
+
+section {
+    
+    height: 400px;
+    font-family: 'Poppins', sans-serif;
+    
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.39);
+    font-family: 'Poppins', sans-serif;
+    padding-top: 50px;
+    padding-bottom:50px ;
+    padding-left: 280px;
+
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width:1024px;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color:white;
+    /* background-image: url(images/download.jpg); */
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center ;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size:64px;
+    color:black;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    padding-top: 80;
+    font-size: 12;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.footer p {
+    font-size: 18px;
+    text-align: center;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+}
